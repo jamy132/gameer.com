@@ -1,0 +1,28 @@
+.box1{
+width:30%;
+margin:auto;
+}
+.shortcut{
+word-spacing:95px;
+}
+.qq{
+color: yellow;
+}
+.quiz{
+color:blue;
+}
+html{
+background-image: url(../img/th.jfif);
+}
+.wellcome{
+color: black;
+}
+.rule{
+color: black;
+}
+.blue{
+color:black;
+}
+h1{
+font-family:comic-comic sans;
+}
